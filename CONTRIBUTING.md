@@ -1,62 +1,65 @@
 # Contributing to OpenPKI
 
-Vielen Dank für dein Interesse an OpenPKI! Gemeinsam bauen wir ein transparentes, faires und freies Zertifizierungs- und Vertrauenssystem für das moderne Web.
+Thank you for your interest in OpenPKI! Together, we're building a transparent, fair and free certification and trust system for the modern web.
 
-Diese Anleitung zeigt dir, wie du beitragen kannst – egal ob als Entwickler\:in, Designer\:in, Ideengeber\:in oder Community-Mitglied.
-
----
-
-## 🚀 Wie du loslegen kannst
-
-1. **Forke dieses Repository**
-2. **Clonen:** `git clone https://github.com/<dein-name>/openpki`
-3. **Installieren:** Lies die README für Setup-Anweisungen
-4. **Beitrag leisten:** Code schreiben, Fehler melden, Texte überarbeiten oder Features vorschlagen
+This guide shows you how to contribute – whether you're a developer, designer, idea-giver or community member.
 
 ---
 
-## 💡 Beitragsformen
+## 🚀 Getting Started
 
-Du kannst OpenPKI unterstützen durch:
-
-* ✅ Code (Backend, Frontend, CLI, APIs)
-* 📈 UX/UI-Design für Trust-Visualisierung
-* 🔍 Dokumentation, Blogartikel, Tutorials
-* 💬 Feedback & Verbesserungsvorschläge
-* ⚖️ Rechtliche & strukturelle Empfehlungen
-* 🚧 Hosting- & Infrastrukturhilfe
+1. **Fork this repository**
+2. **Clone it:** `git clone https://github.com/<your-name>/openpki`
+3. **Install dependencies:** See the README for setup instructions
+4. **Start contributing:** Write code, report bugs, improve documentation or suggest features
 
 ---
 
-## ⚡ Richtlinien für Pull Requests
+## 💡 Ways to Contribute
 
-1. Schreibe **eindeutige Commits** (z. B. `feat: Add OV trust-badge coloring`)
-2. Beschreibe Änderungen klar im PR-Text
-3. Vermeide Breaking Changes ohne Diskussion
-4. Füge Tests und Dokumentation hinzu, wenn nötig
-5. PRs sollten auf den Branch `dev` zielen
+You can support OpenPKI through:
+
+* ✅ Code (backend, frontend, CLI, APIs)
+* 📈 UX/UI design for trust visualization
+* 🔍 Documentation, blog posts, tutorials
+* 💬 Feedback & ideas
+* ⚖️ Legal & structural suggestions
+* 🛠️ Hosting & infrastructure help
 
 ---
 
-## ✍️ Ideen, Diskussionen & Fragen
+## ⚡ Pull Request Guidelines
 
-Wir nutzen folgende Plattformen zur Kommunikation:
+1. Use **clear commit messages** (e.g. `feat: add OV trust-badge coloring`)
+2. Describe your changes clearly in the PR
+3. Avoid breaking changes without discussion
+4. Include tests and docs where appropriate
+5. PRs should target the `dev` branch
 
-* **GitHub Discussions** (siehe Reiter oben)
+---
+
+## ✏️ Discussions & Questions
+
+We use the following platforms for communication:
+
+* **GitHub Discussions** (see the tab above)
 
 ---
 
 ## 👏 Code of Conduct
 
-Bitte beachte unseren [Verhaltenskodex](CODE_OF_CONDUCT.md). Wir dulden kein toxisches Verhalten. OpenPKI steht für Offenheit, Transparenz und gegenseitigen Respekt.
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md). We do not tolerate toxic behavior. OpenPKI stands for openness, transparency and mutual respect.
 
 ---
 
-## 🌟 Schutz deiner Ideen
+## 🌟 Protecting Your Work
 
-Alle Beiträge werden unter der [MIT-Lizenz](LICENSE) veröffentlicht. Dein geistiges Eigentum bleibt gewahrt, die Nutzung ist frei, solange die Lizenzbedingungen eingehalten werden. OpenPKI schützt sich gegen Missbrauch durch Offenheit, Transparenz und gemeinschaftliche Validierung.
+All contributions are released under the [MIT License](LICENSE). Your intellectual contributions remain credited, and use is free as long as license terms are respected. OpenPKI protects itself from abuse through openness, transparency, and community validation.
 
 ---
 
-# Danke, dass du ein Teil der Bewegung bist, nicht einfach nur Verschlüssellung, sondern vor allem Vertrauen zu schaffen!
-## Dein OpenPKI Team
+**Thank you for being part of the movement!**
+
+*Your OpenPKI Team*
+
+[https://openpki.org](https://openpki.org)

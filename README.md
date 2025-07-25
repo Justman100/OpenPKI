@@ -1,55 +1,53 @@
-# OpenPKI: Ein faires, transparentes und zugängliches Trust-System für alle
+**OpenPKI: A Fair, Transparent, and Accessible Trust System for All**
 
-Das aktuelle Zertifizierungssystem rund um das CAB Forum ist teuer, undurchsichtig und schwer zugänglich. OpenPKI ist die Vision eines alternativen Systems, das Vertrauen durch Transparenz, Einfachheit und Offenheit ersetzt – nicht durch Geld und Bürokratie.
+The current certification system under the CAB Forum is expensive, opaque, and hard to access. OpenPKI is a vision of an alternative that replaces money and bureaucracy with transparency, simplicity, and openness.
 
-----------
+---
 
-## Teil 1: Das zentrale Register & Formularsystem für CAs
+**Part 1: The Central Registry & CA Submission System**
 
-OpenPKI definiert eine zentrale, öffentlich einsehbare Registry für Zertifizierungsstellen (CAs), auf die alle Browser und Clients zugreifen können. Statt auf teure Audits zu setzen, wird Transparenz zur neuen Währung des Vertrauens.
+OpenPKI defines a central, publicly accessible registry for certificate authorities (CAs) that all browsers and clients can consult. Instead of costly audits, transparency becomes the new currency of trust.
 
-CAs registrieren sich über ein intuitives, standardisiertes Webformular mit Feldern wie:
+CAs register via a standardized, user-friendly web form, including fields like:
 
--   Vollständiger Name des Eigentümer / Betreiber
--   (Optional) Geburtsdatum / Alter
--   Anschrift des Betreibers und ggf. der CA selbst
--   Methode und Sicherheitsniveau der Schlüsselgenerierung (RSA, ECC, Bits)
--   Ort und Infrastruktur des CA-Hostings
--   Beteiligte Dritte / Projektmitglieder
--   Kommerzieller, kostenloser oder hybrider Betrieb
--   Geplante Val-Stufen (DV, OV, EV); Es müssen nicht alle angeboten werden, man kann sich beispielswiese auf DV, OV oder EV spezialisieren
--   Preisinformationen
--   Ausgabe von Intermediates
-    
+* Full name of the owner/operator
+* (Optional) Date of birth / age
+* Address of the owner and optionally of the CA
+* Key generation method and security level (RSA, ECC, bits)
+* Hosting location and infrastructure details
+* Other involved persons (staff, project members, etc.)
+* Commercial or free operation
+* Planned validation levels (DV, OV, EV)
+* Price info & issuance of intermediates
 
-Das gesamte System ist **vollkommen kostenlos**. Keine Audits, keine Lizenzgebühren – dafür maximale Offenheit.
+The entire system is **completely free of charge**. No audits, no license fees – just maximum openness.
 
-----------
+---
 
-## Teil 2: Klare Visualisierung der Vertrauensstufen
-Jede Validierungsstufe (DV, OV, EV) bekommt ein klar erkennbares visuelles Merkmal. Nutzer sehen auf den ersten Blick, welche Vertrauensstufe vorliegt:
+**Part 2: Clear Visualization of Trust Levels**
 
--   **DV (kostenfrei):** Schwarzes oder weißes Schloss (wie heute)
--   **DV (kostenpflichtig):** Vollständig blaues Schloss (finales Design per Community-Voting)
--   **OV:** Türkis mit orangem Rand (finales Design per Community-Voting)
--   **EV:** Grünes Schloss mit optionalem Banner (standardmäßig aktiv, jedoch kleiner und eingeklappt; ausklappbar bei längerem Namen)
+Each validation level (DV, OV, EV) gets a clearly recognizable visual identity. Users can instantly tell what level of trust a certificate holds:
 
-So entsteht ein übersichtliches, intuitives Vertrauenserlebnis – ganz ohne Details wälzen zu müssen.
+* **DV (free):** Black or white padlock (as seen today)
+* **DV (paid):** Fully blue padlock
+* **OV:** Turquoise with an orange border (final color to be community-voted)
+* **EV:** Green padlock with optional banner (enabled by default, smaller than legacy EV indicators)
 
-----------
+This results in an intuitive and transparent user experience – no need to dig into certificate details.
 
-## Teil 3: Faire Rahmenbedingungen für jeden
+---
 
-OpenPKI fordert nicht nur Offenheit, sondern auch **Reform**. Dazu gehört:
+**Part 3: Fair Conditions for Everyone**
 
--   Eine drastische **Kostenreduktion für Handelsregistereinträge** (90–95%), um EV für alle zu ermöglichen
--   Abschaffung sinnloser Zwischeninstanzen und überteuerter Notariate
--   Standardisierte, digitale Formulare
--   Automatisierte Prüfung via eID oder Blockchain
+OpenPKI doesn't just stand for openness – it also calls for **reform**:
 
+* Dramatic **cost reduction for business registration** (by 90–95%) to make EV accessible
+* Elimination of pointless middlemen and overpriced notary bureaucracy
+* Standardized, digital application forms
+* Automated verification via eID or blockchain
 
-EV-Zertifikate sollen durch **echte juristische Identität** abgesichert sein, nicht durch Geldbeutel. Gewerbeschein für OV, Handelsregister-ID für EV – das reicht. Keine Audits mehr, nur Klarheit.
+EV certificates should be based on **real legal identity**, not money. Business license for OV, company registration number for EV – that’s enough. No more audits, just clarity.
 
-----------
+---
 
-# OpenPKI will Vertrauen dorthin zurückbringen, wo es hingehört: In die Hände der Menschen.
+**OpenPKI aims to bring trust back to where it belongs: in the hands of the people.**
